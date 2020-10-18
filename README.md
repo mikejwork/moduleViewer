@@ -1,4 +1,6 @@
-# moduleViewer
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/2WTEXEW.png">
+</p>
 ### Visualise loaded modules on a process  
 
 > Make sure to change character set to "not set"  
