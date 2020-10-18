@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://i.imgur.com/2WTEXEW.png">
+  <img width="460" height="300" src="https://i.imgur.com/5FxeFsf.png">
 </p>
 ### Visualise loaded modules on a process  
 
